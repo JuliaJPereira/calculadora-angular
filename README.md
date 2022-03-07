@@ -11,6 +11,14 @@
 
 Para acessar o projeto, [cliquei aqui.](https://angular-calculadora.netlify.app/)
 
+## Tecnologias utilizadas
+
+| Tecnologia                              | Finalidade                |
+| --------------------------------------- | ------------------------- |
+| HTML5                                   | Estrutura web             |
+| CSS3 & Bootstrap                        | Estilização da página     |
+| Typescript & Angular                    | Interação da página       |
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
