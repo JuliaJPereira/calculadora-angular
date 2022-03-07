@@ -1,6 +1,15 @@
-# Calculadora
+# Calculadora Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
+### Objetivos:
+
+- Aprender a criar módulos, componentes e serviços;
+- Criar testes unitários;
+- Documentar o código;
+- Aprender sobre operadores de atribuição e eventos;
+- Aprender o que é injeção de dependências;
+- Integrar o Angular com frameworks externos;
+
+Para acessar o projeto, [cliquei aqui.](https://angular-calculadora.netlify.app/)
 
 ## Development server
 
